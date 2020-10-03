@@ -48,7 +48,7 @@ public class Proximity : MonoBehaviour
         if (other)
         {
            dist = Vector3.Distance(transform.position, other.position);
-            print("Distance to player: " + dist);
+            //print("Distance to player: " + dist);
             if (dist < 4)
             {
                 myTitle.text = newTitle;
