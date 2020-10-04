@@ -23,6 +23,7 @@ NASA is the most reputed organization in astrophysics, and earth and space scien
 
 ## Project Demo
 
+Click on the image below:
 <a href="https://www.youtube.com/watch?v=focptfnnWIY" target="_blank"><img src="https://science.nasa.gov/science-pink/s3fs-public/thumbnails/image/EARTH_CoreTheme.png" alt ="Video Thumbnail" border="10"/></a>
 
 ## Data & Resources
@@ -50,6 +51,8 @@ NASA is the most reputed organization in astrophysics, and earth and space scien
 - FuseSchool,
 
 - NOAA SciJinks(scijinks.gov)
+
+- https://drive.google.com/file/d/15vhQznw9GToAjHm5s4kMOmDy4Y2GzaLs/view
 
 ## Download
 
